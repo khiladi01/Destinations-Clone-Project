@@ -28,7 +28,7 @@ Dynamic Data Rendering – Updated images, texts, and hero section automatically
 
 📂 Project Setup
 # Clone this repository
-git clone https://github.com/yourusername/Destination-clone project.git
+git clone https://github.com/khiladi01/Destinations-Clone-Project/tree/main
 
 # Move into project directory
 cd destination-clone
